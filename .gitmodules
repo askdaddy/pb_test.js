@@ -1,6 +1,3 @@
-[submodule "net.io-client"]
-	path = net.io-client
-	url = https://github.com/Irrelon/net.io-client.git
-[submodule "net.io-server"]
-	path = net.io-server
-	url = https://github.com/Irrelon/net.io-server.git
+[submodule "protocol"]
+	path = protocol
+	url = https://github.com/AryaMask/pb_protocol.git

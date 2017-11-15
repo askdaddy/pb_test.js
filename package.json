@@ -1,0 +1,14 @@
+{
+  "name": "pb_test",
+  "version": "0.0.1",
+  "author": "Askdaddy@gmail.com",
+  "description": "Example for TCP use protobuf",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/askdaddy/pb_test.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "google-protobuf": "^3.4.0"
+  }
+}
